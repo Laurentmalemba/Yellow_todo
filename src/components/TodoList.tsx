@@ -1,5 +1,5 @@
 // /src/components/TodoList.tsx
-
+'use client';
 import React, { useState } from "react";
 
 type Todo = {
